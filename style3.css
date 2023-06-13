@@ -186,6 +186,11 @@ nav ul:hover{
         font-size: 150%;
         cursor: pointer;
     }
+    .background{
+    background: rgba(0,0,0,0.8) url('image\ \(5\)-1.png');
+    background-size: cover;
+    background-blend-mode: darken;
+}
 }
 @media only screen and (max-width: 600px) and (min-width: 400px){
     .part-2 video{
@@ -222,6 +227,11 @@ nav ul:hover{
     color: rgb(0, 26, 255);
     font-size: 115%;
     cursor: pointer;
+}
+    .background{
+    background: rgba(0,0,0,0.8) url('image\ \(5\)-1.png');
+    background-size: cover;
+    background-blend-mode: darken;
 }
 }
 @media only screen and (max-width: 400px)and (min-width:300px){
@@ -260,6 +270,11 @@ nav ul:hover{
     font-size: 95%;
     cursor: pointer;
 }
+    .background{
+    background: rgba(0,0,0,0.8) url('image\ \(5\)-1.png');
+    background-size: cover;
+    background-blend-mode: darken;
+}
 }
 @media only screen and (max-width: 300px){
     .part-2 video{
@@ -296,5 +311,10 @@ nav ul:hover{
     color: rgb(0, 26, 255);
     font-size: 85%;
     cursor: pointer;
+}
+    .background{
+    background: rgba(0,0,0,0.8) url('image\ \(5\)-1.png');
+    background-size: cover;
+    background-blend-mode: darken;
 }
 }

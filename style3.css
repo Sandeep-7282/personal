@@ -45,13 +45,12 @@ nav ul:hover{
     cursor: pointer;
 }
 .background{
-    background: rgba(0,0,0,0.8) url('image\ \(5\).png');
+    background: rgba(0,0,0,0.8) url('image\ \(5\)-1.png');
     background-size: cover;
     background-blend-mode: darken;
 }
 .background-1{
     background: rgba(0,0,0,0.5) url('back.png');
-    
     background-size: cover;
     background-blend-mode: darken;
 }
